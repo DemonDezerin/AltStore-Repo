@@ -22,7 +22,8 @@
       "tintColor": "#7f7f7f",
       "category": "games",
       "screenshots": [],
-      "versions": [],
+      "version": [v1.3.2],
+      "versionDate": [2023-09-17]
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
