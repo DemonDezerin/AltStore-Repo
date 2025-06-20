@@ -1,0 +1,33 @@
+{
+  "name": "RSDKv5U Decompilation",
+  "subtitle": "Play Retro Engine Sonic games",
+  "description": "Thanks To WamWooWam, RSDKv5 Decompilation Team, And Christian Whitehead\n\nGAME FILES REQUIRED\nYou Need A Data.rsdk from one of these games\n\nSonic Mania\nSonic CD (Origins)\nSonic 1 (Origins)\nSonic 2 (Origins)",
+  "iconURL": "https://i.imgur.com/7jpgdmJ.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "org.wamwoowam.RSDKv5"
+  ],
+  "apps": [
+    {
+      "name": "RSDKv5",
+      "bundleIdentifier": "org.wamwoowam.RSDKv5",
+      "marketplaceID": "",
+      "developerName": "WamWooWam",
+      "subtitle": "",
+      "localizedDescription": "Thanks To WamWooWam, RSDKv5 Decompilation Team, And Christian Whitehead\n\nGAME FILES REQUIRED\nYou Need A Data.rsdk from one of these games\n\nSonic Mania\nSonic CD (Origins)\nSonic 1 (Origins)\nSonic 2 (Origins)",
+      "iconURL": "https://i.imgur.com/7jpgdmJ.png",
+      "tintColor": "#7f7f7f",
+      "category": "games",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
