@@ -22,8 +22,14 @@
       "tintColor": "#7f7f7f",
       "category": "games",
       "screenshots": [],
-      "version": "1.3.2",
-      "versionDate": "2023-09-17",
+      "versions": [
+        {
+          "version": "1.3.2",
+          "date": "2023-09-17",
+          "localizedDescription": "Initial release",
+          "downloadURL": "https://demondezerin.github.io/AltStore-Repo/RSDKv5.ipa"
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
