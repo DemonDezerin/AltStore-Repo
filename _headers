@@ -1,7 +1,7 @@
-/AltStore.json
+AltStore.json
   Content-Type: application/json
   Access-Control-Allow-Origin: *
 
-/RSDKv5.ipa
+RSDKv5.ipa
   Content-Type: application/octet-stream
   Access-Control-Allow-Origin: *
